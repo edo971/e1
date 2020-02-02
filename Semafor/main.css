@@ -1,0 +1,31 @@
+#semafor {
+  width:60px;
+  height: 200px;
+  border: 1px solid silver;
+  border-radius: 20px;
+  margin-left:150px;    
+}
+
+.boje{
+  width: 50px;
+  height: 50px;
+  border: 1px solid silver;
+  border-radius: 50px;
+  margin: 4px;
+}
+#semafor2 {
+  width:60px;
+  height: 200px;
+  border: 1px solid silver;
+  border-radius: 20px;
+  margin-left:400px;    
+}
+
+.boje1{
+  width: 50px;
+  height: 50px;
+  border: 1px solid silver;
+  border-radius: 50px;
+  margin: 4px;
+}
+
